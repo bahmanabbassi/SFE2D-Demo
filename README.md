@@ -1,6 +1,6 @@
 # SFE2D-Demo
 
-**Demo version** of SFE2D: a 2D tool for **spatial and spectral feature extraction** from geo-images (PCA, ICA, CWT, S-PCA, S-ICA). Try the workflow with limited parameters; for full functionality, use the [Full version](https://github.com/bahmanabbassi).
+**Demo version** of SFE2D: a 2D tool for **spatial and spectral feature extraction** from geo-images (PCA, ICA, CWT, S-PCA, S-ICA). The demo is distributed in **P-code** form (`.p` files) with **SFE2D.fig**. Try the workflow with limited parameters; for full functionality, use the [Full version](https://github.com/bahmanabbassi).
 
 **Lead Developer:** Bahman Abbassi  
 **Principal Investigator:** Li-Zhen Cheng  
@@ -33,8 +33,8 @@ When a limit is reached, the GUI shows a message and directs you to the full ver
 ## Installation & run
 
 1. Clone or download this repository.
-2. Add the **M Files** folder to your MATLAB path (or set it as the current directory).
-3. Ensure **SFE2D.fig** is in the same folder as **SFE2D.m**.
+2. Add the folder containing the **P-codes** (`.p` files) and **SFE2D.fig** to your MATLAB path, or set it as the current directory.
+3. Ensure **SFE2D.fig** is in the same folder as **SFE2D.p**.
 4. In the MATLAB Command Window:
    ```matlab
    SFE2D
@@ -53,9 +53,10 @@ When a limit is reached, the GUI shows a message and directs you to the full ver
 
 ## Repository contents
 
-- **SFE2D.m**, **SFE2D.fig** — Main GUI (demo limits enforced).
-- **PCA.m**, **fastICA.m**, **fastICA_CWT.m**, **kmeans_fast_Color.m**, **fig.m**, **FilterB.m**, **grd_write.m**, **centerRows.m**, **whitenRows.m**, **PlaceThresholdBars.m** — Core routines.
-- **build_pcodes.m** — Script to generate P-codes from all M-files (`build_pcodes` or `build_pcodes('P Files')`).
+The demo is provided as **P-codes** (`.p` files) plus the GUI layout file:
+
+- **SFE2D.p**, **SFE2D.fig** — Main GUI (P-code; demo limits enforced).
+- **PCA.p**, **fastICA.p**, **fastICA_CWT.p**, **kmeans_fast_Color.p**, **fig.p**, **FilterB.p**, **grd_write.p**, **centerRows.p**, **whitenRows.p**, **PlaceThresholdBars.p** — Core routines (P-code).
 
 ---
 
