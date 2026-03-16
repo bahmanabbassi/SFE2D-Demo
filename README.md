@@ -79,4 +79,4 @@ For unrestricted parameters, multiple inputs, and all wavelets, use the **Full v
 
 ## License & copyright
 
-© B. Abbassi, 2020. All rights reserved. This demo is for evaluation only. For licensing and the full version, see the [author’s GitHub](https://github.com/bahmanabbassi) and User Manual.
+© B. Abbassi, 2022. All rights reserved. This demo is for evaluation only. For licensing and the full version, see the [author’s GitHub](https://github.com/bahmanabbassi) and User Manual.
