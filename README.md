@@ -2,7 +2,8 @@
 
 **Demo version** of SFE2D: a 2D tool for **spatial and spectral feature extraction** from geo-images (PCA, ICA, CWT, S-PCA, S-ICA). Try the workflow with limited parameters; for full functionality, use the [Full version](https://github.com/bahmanabbassi).
 
-**Authors:** Bahman Abbassi, Li Zhen Cheng  
+**Lead Developer:** Bahman Abbassi  
+**Principal Investigator:** Li-Zhen Cheng  
 **Affiliation:** Institut de Recherche en Mines et en Environnement (IRME), Université du Québec en Abitibi-Témiscamingue (UQAT)
 
 ---
