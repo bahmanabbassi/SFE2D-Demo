@@ -64,7 +64,8 @@ The demo is provided as **P-codes** (`.p` files) plus the GUI layout file:
 
 For unrestricted parameters, multiple inputs, and all wavelets, use the **Full version** of SFE2D:
 
-**https://github.com/bahmanabbassi**
+**https://github.com/bahmanabbassi/SFE2D-3.0**
+
 
 ---
 
