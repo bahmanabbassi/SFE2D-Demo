@@ -71,6 +71,8 @@ For unrestricted parameters, multiple inputs, and all wavelets, use the **Full v
 ## References
 
 - Abbassi, B., Cheng, L.Z. **SFE2D: A Hybrid Tool for Spatial and Spectral Feature Extraction.** In: *Mining Technology*. IntechOpen, 2022. DOI: [10.5772/intechopen.101363](http://dx.doi.org/10.5772/intechopen.101363)
+- Abbassi, B., Cheng, L-Z., 2020, **SFE2D : Un outil d'extraction de caractéristiques spectrales de géo-images.** Rapport pour le ministère de l'Énergie et des Ressources naturelles, Bureau de la connaissance géoscientifique du Québec. [Lien (SIGEOM)](https://sigeom.mines.gouv.qc.ca/signet/classes/I1103_index?l=f&type_reqt=U&entt=LG&mode=NOUVELLE&format=RESUME&alias_table_crit=EXADOC&mnen_crit=NUMR_RAPR&oper_crit=EGAL&valr_crit=MB%202020-11)
+- Abbassi, B., and Cheng, L-Z., 2019, **Integrated feature extraction in high-dimensional geophysical imaging.** Présentation à Québec Mines + Énergie 2019. DOI: [10.13140/RG.2.2.36577.93286](https://doi.org/10.13140/RG.2.2.36577.93286)
 - SFE2D User Manual (ver. 2.0), April 2021.
 
 ---
